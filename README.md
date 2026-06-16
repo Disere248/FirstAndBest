@@ -35,6 +35,8 @@ Make sure you have Python 3.8 or higher installed on your system.
    ```bash
    pip install -r requirements.txt
 
+3. Be sure to download the Vosk files and place the file in the folder with main.py
+
 3. Run the application:
    python main.py
 
